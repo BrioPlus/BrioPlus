@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @BrioPlus
+- 👋 Hi, I’m **BrioPlus**
 - I'm interested in Programming on C++, C#, Ren'Py, Python, PHP, HTML, CSS, SCSS, Inno Setup and NSIS
